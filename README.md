@@ -1,4 +1,3 @@
-# gitcomandos
 # GIT
 
 ## Estados
